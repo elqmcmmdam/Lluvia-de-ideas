@@ -1,0 +1,11 @@
+-Componentes-
+
+*Touchable Opacity
+
+*Botones
+
+*Imágenes
+
+*Diferentes Pantallas
+
+*Pantalla de Inicio
